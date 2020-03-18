@@ -13,4 +13,5 @@
     <string name="FR">FR</string>
     <string name="Professeur">Professeur</string>
     <string name="Etudiant">Etudiant</string>
+    <string name="Espace_Etudiant">Etudiant</string>
 </resources>
