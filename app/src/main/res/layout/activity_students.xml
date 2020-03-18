@@ -58,7 +58,7 @@
         android:layout_marginRight="30dp"
         android:layout_marginBottom="300dp"
         android:background="@drawable/my_buttons"
-        android:text="RESSOURCES"
+        android:text="@string/RESSOURCES"
         android:textColor="#FFFFFFFF"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
